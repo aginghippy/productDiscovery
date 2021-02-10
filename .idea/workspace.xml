@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73566c02-8502-476a-a152-9e7338a49d0d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="productDiscovery.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/productDiscovery/productDiscovery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productDiscovery.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/productDiscovery/productDiscovery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1220">
+              <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>collec</find>
+      <find>targetPageType</find>
+      <find>set</find>
+      <find>asynchronousStuff</find>
+      <find>campaignTy</find>
+      <find>ecomm</find>
+      <find>excludeOutOfStock</find>
+      <find>pric</find>
+      <find>minPrice</find>
+      <find>bs-loc</find>
+      <find>page type</find>
+      <find>both</find>
+      <find>cret</find>
+      <find>visit</find>
+      <find>url fil</find>
+      <find>tracking</find>
+      <find>Set</find>
+      <find>setup</find>
+      <find>chal</find>
+      <find>repoID</find>
+      <find>cha</find>
+      <find>779</find>
+      <find>home</find>
+      <find>productID</find>
+      <find>conversion</find>
+      <find>filters</find>
+      <find>productFilters</find>
+      <find>128</find>
+      <find>gre</find>
+      <find>visitorGreeting</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>7010</replace>
+      <replace>productDiscovery</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/widgetTestBed" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/widgetTestBed/old.js" />
+        <option value="$PROJECT_DIR$/widgetTestBed/old.vue" />
+        <option value="$PROJECT_DIR$/widgetTestBed/new.vue" />
+        <option value="$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+        <option value="$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+        <option value="$PROJECT_DIR$/conversationalSearch/directorySearch.html" />
+        <option value="$PROJECT_DIR$/conversationalSearch/directorySearch.js" />
+        <option value="$PROJECT_DIR$/conversationalSearch/ecommerceSearch.html" />
+        <option value="$PROJECT_DIR$/conversationalSearch/productSearch.js" />
+        <option value="$PROJECT_DIR$/productDiscovery/productDiscovery.html" />
+        <option value="$PROJECT_DIR$/productDiscovery/productDiscovery.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-268" />
+    <option name="y" value="49" />
+    <option name="width" value="1386" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ecommerce Product Discovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce Product Discovery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecommerce Product Discovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce Product Discovery" type="462c0819:PsiDirectoryNode" />
+              <item name="productDiscovery" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Test Bed" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73566c02-8502-476a-a152-9e7338a49d0d" name="Default" comment="" />
+      <created>1592835980291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592835980291</updated>
+      <workItem from="1592835981505" duration="3551000" />
+      <workItem from="1592922003186" duration="4626000" />
+      <workItem from="1598305589667" duration="1813000" />
+      <workItem from="1598359781809" duration="3071000" />
+      <workItem from="1598443249139" duration="1236000" />
+      <workItem from="1598992126071" duration="2971000" />
+      <workItem from="1599057392761" duration="5271000" />
+      <workItem from="1599151073612" duration="1308000" />
+      <workItem from="1599238035707" duration="2097000" />
+      <workItem from="1599687504171" duration="1300000" />
+      <workItem from="1599741306582" duration="626000" />
+      <workItem from="1600696125009" duration="20000" />
+      <workItem from="1600696253886" duration="5261000" />
+      <workItem from="1600783180615" duration="606000" />
+      <workItem from="1600950183822" duration="3244000" />
+      <workItem from="1601038263214" duration="1396000" />
+      <workItem from="1601213889906" duration="1382000" />
+      <workItem from="1601242544021" duration="600000" />
+      <workItem from="1601381175795" duration="6247000" />
+      <workItem from="1602243672897" duration="2050000" />
+      <workItem from="1602507407897" duration="1211000" />
+      <workItem from="1602612285197" duration="1292000" />
+      <workItem from="1607281955505" duration="3485000" />
+      <workItem from="1607343740268" duration="599000" />
+      <workItem from="1607452709323" duration="128000" />
+      <workItem from="1608068155675" duration="3805000" />
+      <workItem from="1608163905300" duration="1865000" />
+      <workItem from="1608208682053" duration="1830000" />
+      <workItem from="1608295548475" duration="1212000" />
+      <workItem from="1608389184093" duration="62000" />
+      <workItem from="1608397351050" duration="642000" />
+      <workItem from="1608487166725" duration="646000" />
+      <workItem from="1608649983011" duration="1372000" />
+      <workItem from="1608660438112" duration="8000" />
+      <workItem from="1608661245704" duration="5000" />
+      <workItem from="1609432914267" duration="2512000" />
+      <workItem from="1609597002697" duration="3598000" />
+      <workItem from="1609796054245" duration="2563000" />
+      <workItem from="1609873009984" duration="673000" />
+      <workItem from="1609948779758" duration="689000" />
+      <workItem from="1610030523724" duration="25000" />
+      <workItem from="1610110137517" duration="983000" />
+      <workItem from="1610332061356" duration="1417000" />
+      <workItem from="1610390687113" duration="1273000" />
+      <workItem from="1610562427769" duration="4513000" />
+      <workItem from="1610632373495" duration="2409000" />
+      <workItem from="1610711151503" duration="3122000" />
+      <workItem from="1610994262113" duration="1362000" />
+      <workItem from="1611080267634" duration="4774000" />
+      <workItem from="1611182107248" duration="1304000" />
+      <workItem from="1611261787439" duration="3093000" />
+      <workItem from="1611508442720" duration="1168000" />
+      <workItem from="1611587125446" duration="640000" />
+      <workItem from="1611667937046" duration="8000" />
+      <workItem from="1611933826449" duration="5484000" />
+      <workItem from="1612033267249" duration="789000" />
+      <workItem from="1612276642375" duration="3156000" />
+      <workItem from="1612369136496" duration="616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="113009000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17397882" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/conversationalSearch/directorySearch.js" />
+    <entry file="file://$PROJECT_DIR$/conversationalSearch/directorySearch.html" />
+    <entry file="file://$PROJECT_DIR$/conversationalSearch/directorySearch.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/css.css" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/css.css" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/css.css" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/css.css" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/css.css" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/css.css" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/css.css" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/old.vue" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/new.vue" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/css.css" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/old.vue" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/new.vue" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/old.js" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/old.vue" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/new.vue" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/css.css" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeTestBedWidgets.html" />
+    <entry file="file://$PROJECT_DIR$/widgetTestBed/completeWidgetTestBed.js" />
+    <entry file="file://$PROJECT_DIR$/conversationalSearch/directorySearch.js" />
+    <entry file="file://$PROJECT_DIR$/conversationalSearch/directorySearch.html" />
+    <entry file="file://$PROJECT_DIR$/conversationalSearch/ecommerceSearch.html" />
+    <entry file="file://$PROJECT_DIR$/conversationalSearch/productSearch.js" />
+    <entry file="file://$PROJECT_DIR$/productDiscovery/productDiscovery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productDiscovery/productDiscovery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
