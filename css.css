@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body {
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+*/
+/** {
+    box-sizing: border-box
+}
+*/
+body {
+    font-family: "Chaparral-Pro";
+    background: #FDFCFB;
+    overflow-x: hidden;
+    padding: 0;
+    margin: 1px;
+}
+
+.webhook_button {
+    padding:5px;
+    margin:5%;
+}
+.cui__conversation__stream {
+    position: relative; /* relative to its normal psoition, left, right, top, bottom will have impact */
+    max-width: 30%;
+    font-size: 0.8em;
+    margin: 5% auto; /* top 5 % of width -  left, right auto */
+    z-index: 10;
+    padding: 8px;
+    margin: 15%;
+
+}
+
+.cui__response__stream {
+    text-align: center;
+    position: static;
+    padding: 6px;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    margin-bottom: 0px;
+    border-radius: 15px; /* added to show box */
+    border-color: #B2B2FF;
+    border-style: solid; /* rbs add */
+    border-width: 1px;
+    display:inline-block; /* added 4-24. THAT PUTS FORM IN THE RESPONSE STREAM BORDER; WILL HAVE TO TEST IT LIVE */
+}
+
+.cui__response__bubble {
+    transform: translate3d(0, 0, 0);
+    transition: transform 0.5s cubic-bezier(0.68, 0.01, 0.245, 1.13) 0s;
+    color: rgb(1, 118, 255);
+    background-color: rgb(255, 255, 255);
+    float: right;
+    /* max-width: 10%; */ /* controls size of the space for response-bubble */
+    min-width: 30%;
+    min-height: 12px;
+    border-radius: 15px;
+    border-color: #B2B2FF;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    line-height: 1.45em;
+    position: relative;
+    padding: 6px 12px;
+    font-size: 16px;
+    /* outline: 0px solid transparent; *//* to not have a border show up when the element is in focus, for contentEditable response fields */
+}
+
+.lead-form { display:inline-block;  width:80%} /* this helps center and align the form */
+
+.lead-form input[type="text"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.lead-form label[for="fname"] {
+    display:none;
+}
+
+.lead-form input[type="submit"] {
+    width: 70%;
+    background-color: #e3e2e1;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    /* border: none; */
+    border-radius: 12px;
+    border-color: #B2B2FF;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+}
+
+/* input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+} */
+
+/* input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}*/
+
+input[type=submit]:hover {
+    background-color: #979796;
+}
+
+/* div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+} */
